@@ -1,13 +1,5 @@
 #!/bin/bash
 
-#==========================================================
-#
-# Script para probar la conexion y probar el modelo.
-#
-# Rafael Molleja Jiménez - 2026.
-#
-#==========================================================
-
 # COLORES
 RED='\033[0;31m'
 GREEN='\033[0;32m'
